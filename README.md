@@ -12,7 +12,7 @@ Se incluyen:
 El grupo de trabajo que se encargó de esta serie de cálculos y desarrollos está conformado por:
 
 Angeloni, Luciano  
-Bazolato, Jacqueline  
+Bazoalto, Jacqueline  
 Guyot, Lourdes  
  
 Facultad de Ciencias Exactas, Físicas y Naturales. - UNC
