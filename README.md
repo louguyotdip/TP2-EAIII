@@ -6,8 +6,6 @@ Se incluyen:
 
 - Informe detallado 
 - Scripts de cálculos auxiliares  
-- Circuitos de simulación en ADS y Multisim     
-- Informe en TeX  
 
 El grupo de trabajo que se encargó de esta serie de cálculos y desarrollos está conformado por:
 
